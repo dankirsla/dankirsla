@@ -1,16 +1,15 @@
-## Hi there 👋
+# Technical writer for academic publishing
 
-<!--
-**dankirsla/dankirsla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical writer focused on documentation for research, scholarly publishing, and technical software.
 
-Here are some ideas to get you started:
+I develop practical guides, reference documentation, templates, and workflows that translate technical requirements, standards, and software processes into information that is clear and usable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Areas of focus include research data management, reproducible research, scholarly publishing workflows, reporting guidelines, web accessibility, research software, and technical tools.
+
+This repository contains selected documentation projects and technical writing samples.
+
+# Contact
+
+Based in Bolivia and available for fully remote technical-writing projects, including long-term documentation work.
+
+For inquiries or project discussions, please contact me through GitHub.
